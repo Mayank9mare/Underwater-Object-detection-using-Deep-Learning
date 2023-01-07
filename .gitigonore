@@ -1,0 +1,11 @@
+*.pt
+*.pth
+
+cifar10/
+cifar100/
+
+.ipynb_checkpoints/
+__pycache__/
+Underwater_images/
+
+

@@ -1,0 +1,5 @@
+train: /DATA/raj13/Underwater_image_detection/Underwater_images/aquarium_pretrain/train/
+val: /DATA/raj13/Underwater_image_detection/Underwater_images/aquarium_pretrain/valid/
+
+nc: 7
+names: ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray']

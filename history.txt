@@ -1,0 +1,4 @@
+ nohup python3 train.py --batch 16 --epochs 50 --data ../Underwater_images/aquarium_pretrain/data.yaml --weights yolov3.pt --device 7 > output.log &
+
+  nohup python3 train.py --img 640 --batch 16 --epochs 3 --data ../Underwater_images/aquarium_pretrain/data.yaml --weights yolov5.pt --device 5 > output.log &
+  wandb offline
