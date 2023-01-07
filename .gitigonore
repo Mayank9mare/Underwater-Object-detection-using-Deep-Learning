@@ -7,5 +7,5 @@ cifar100/
 .ipynb_checkpoints/
 __pycache__/
 Underwater_images/
-
+DG-YOLO/data/
 
